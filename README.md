@@ -96,3 +96,21 @@ And the message will be stored in your MongoDB Atlas database.
 
 ---
 
+
+
+### 📬 Postman
+
+<img src="./assets/postman.png" alt="Postman" width="400"/>
+
+Postman is used to test the POST `/save-message` endpoint by sending JSON data like messages, date, and time to the server.
+
+---
+
+### 🍃 MongoDB
+
+<img src="./assets/mongodb.png" alt="MongoDB" width="400"/>
+
+MongoDB stores the incoming messages with their respective timestamps, allowing for scalable and flexible NoSQL data storage.
+
+---
+
